@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a junior frontend developer looking for a job.
+
+Here is where I keep all projects from which im learning coding skills.
+
+Underneath there are my selfmade websites.
+
+Enjoy!
+
 <!--
 **roland444/roland444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
