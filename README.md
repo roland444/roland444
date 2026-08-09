@@ -4,4 +4,4 @@ Software Engineering Student @ WSB Merito | Python
 
 🎓 Studying AI & Data Science | Open for Junior / Intern Developer roles.
 
-💼 LinkedIn: [twój-linkedin] 
+💼 LinkedIn:  linkedin.com/in/krzysztof-roland
